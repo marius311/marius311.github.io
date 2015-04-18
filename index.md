@@ -14,7 +14,7 @@ I'm a [cosmologist](http://en.wikipedia.org/wiki/Cosmetology), currently at Univ
 
 
 
-
+<!-- See: https://gist.github.com/joshdick/961154 -->
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
 <script type="text/javascript">
