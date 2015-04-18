@@ -4,7 +4,7 @@ title: Home
 ---
 
 ![Picture of me](http://goo.gl/ef474P?gdriveurl) 
-(I don't work with the Curiosity Rover, but I did get a chance to see its twin)
+<!-- (I don't work with the Curiosity Rover, but I did get a chance to see its twin) -->
 
 I'm a [cosmologist](http://en.wikipedia.org/wiki/Cosmetology), currently at Univeristy of California at Davis working on my PhD, in the fall off 2015 off to Paris to start a postdoc as a Lagrange Fellow. On this site you'll find a little about my research, links to my papers and slides from my talks. Feel free to email me at <a
   target="_blank"
