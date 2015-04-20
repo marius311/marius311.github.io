@@ -3,10 +3,10 @@ layout: page
 title: Home
 ---
 
-![Picture of me](http://goo.gl/ef474P?gdriveurl) 
+![Picture of me](/public/me.jpg) 
 <!-- (I don't work with the Curiosity Rover, but I did get a chance to see its twin) -->
 
-I'm a [cosmologist](http://en.wikipedia.org/wiki/Cosmetology), currently at Univeristy of California at Davis working on my PhD, in the fall off 2015 off to Paris to start a postdoc as a Lagrange Fellow. On this site you'll find a little about my research, links to my papers and slides from my talks. Feel free to email me at <a
+I'm a [cosmologist](http://en.wikipedia.org/wiki/Cosmetology), currently at Univeristy of California at Davis working on my PhD. In the fall of 2015 I'm off to [Paris](http://ilp.upmc.fr/index.php) to start a postdoc as a Lagrange Fellow. On this site you'll find a little about my research, links to my papers, slides from my talks, and the occasional blog post. Feel free to email me at <a
   target="_blank"
   id="contact"
   href="http://www.google.com/recaptcha/mailhide/d?k=01RgRLgvxEUrUhAUtFCSPNRA==&amp;c=0nIRqiLvmUU-5ifT56SvMSY2hB9qsGA9T0u6dIWkHPI=">

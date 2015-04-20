@@ -9,7 +9,7 @@ title: Talks
 
 * *Apr 12 , 2015* · APS Baltimore · [Cosmological Constraints on Neutrinos](https://drive.google.com/file/d/0B4mwjUA-f7g6VUR5Zkl0LWhkcVU/view?usp=sharing)
 
-* *Feb 2, 2015* · John's Hopkins Seminar · [Planck 2015 Constraints on the Cosmic Neutrino(-like) Background](https://drive.google.com/file/d/0B4mwjUA-f7g6aXliUXFxUnZWVHM/view?usp=sharing)
+* *Feb 2, 2015* · Johns Hopkins Seminar · [Planck 2015 Constraints on the Cosmic Neutrino(-like) Background](https://drive.google.com/file/d/0B4mwjUA-f7g6aXliUXFxUnZWVHM/view?usp=sharing)
 
 * *Jan 26, 2015* · Stanford Seminar · [Planck 2015 Constraints on the Cosmic Neutrino(-like) Background](https://drive.google.com/file/d/0B4mwjUA-f7g6OFF6T2cycGVyUTg/view?usp=sharing)
 

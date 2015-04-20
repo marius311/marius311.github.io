@@ -58,8 +58,12 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
-  /*background-image: url( "/public/sidebar.jpg" );*/
-  /*background-size:   contain; */
+  background-image: url( "/public/sidebar.jpg" );
+  background-size:   cover; 
+  border-radi/*us: 5px;
+  border: 20px;
+  padding: 20*/px;
+  
 }
 
 
