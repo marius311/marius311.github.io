@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Reseach
+title: Reseach
 ---
 
 
