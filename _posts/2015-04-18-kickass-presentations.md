@@ -87,7 +87,7 @@ Many scientific presentations tend to include equations, and for equations [Late
 
 
 ##2.1. Inline Latex (sort of)
-Texmaths Equations is great but the equations cannot be interspersed with text inside of a text box. A limited way to fake this is to convert parts of the text in textboxes to the same font that Latex uses to render equations, the [Latin Modern Math] font. This will let you write variable names, super and subscripts, and simple numerical equations that look like Latex. 
+Texmaths Equations is great but the equations cannot be interspersed with text inside of a text box. A limited way to fake this is to convert parts of the text in text boxes to the same font that Latex uses to render equations, the [Latin Modern Math] font. This will let you write variable names, super and subscripts, and simple numerical equations that look like Latex. 
 
 ![this isn't Latex](/public/posts/kickass-presentation/thisisntlatex.png) 
 
@@ -103,14 +103,14 @@ Note that for alphanumeric variables, Latex equations use the characters under t
 
 For sharing your slides with others in a portable format, LibreOffice has the option to export to PDF. However, if your slides had transitions, these can be lost in the conversion. This isn't just an aesthetic problem, it can actually make your presentation illegible if you had objects appear on top of other object; the PDF will only feature the final version of the slide and some of the content could be completely covered up. 
 
-Fortunately, the [Expand Animations] add on can take a slide with transitions on it, and expand it to several PDF slides. For example, if your slide had objects A, B, then C appearing one by one, the expanded PDF will now have three copies of that slide where A, then B, then C appears. 
+Fortunately, the [Expand Animations] add-on can take a slide with transitions on it, and expand it to several PDF slides. For example, if your slide had objects A, B, then C appearing one by one, the expanded PDF will now have three copies of that slide where A, then B, then C appears. 
 
 To install, download the file from the link, then from LibreOffice go to *Tools→Extension Manager*, click *Add*, and select the file you downloaded. You will now see the *Expand Animations* option under *Tools→Add Ons*. 
 
 
 ##4. Conclusion.
 
-If you made it this far and want to see some examples where I make use of all of the above tips, check out some of the [slides](/talks/) from my talks ([this](https://drive.google.com/file/d/0B4mwjUA-f7g6d1pKellXNXlSLUU/view?usp=sharing) is a good example). And if you have any other suggestions for using free software to create scientific talks, please feel free to leave them below! 
+If you made it this far and want to see some examples where I make use of all of the above tips, check out some of the [slides](/talks/) from my talks ([this](https://drive.google.com/file/d/0B4mwjUA-f7g6d1pKellXNXlSLUU/view?usp=sharing) is a good example). And if you have any other suggestions for using free software to create scientific talks, please let me know below! 
 
 
 {% if page.comments %}
