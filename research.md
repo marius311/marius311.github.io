@@ -35,7 +35,7 @@ Probably my most widely used analysis software is [PICO](https://sites.google.co
 ###Constraining fundamental physics
 
 ####Neutrinos
-Right now is an extremely exciting time for cosmological neutrino physics. Constraints on the masses of the neutrinos, $\Sigma m_\nu$, and the number of neutrino-like species, $N_{\rm eff}$, have been improving significantly as CMB experiments measure further into the damping tail of the temperature and polarization power spectrum, and as they measure the gravitational lensing potential. Within the next decade, we are essentially [guaranteed](http://adsabs.harvard.edu/abs/2013arXiv1309.5383A) to detect $\Sigma m_\nu$ to 3$\sigma$, and even the tiny energy imparted on the neutrinos from electron-positron annihilation to within 2$\sigma$. 
+Right now is an extremely exciting time for cosmological neutrino physics. Constraints on the masses of the neutrinos, $\Sigma m\_\nu$, and the number of neutrino-like species, $N\_{\rm eff}$, have been improving significantly as CMB experiments measure further into the damping tail of the temperature and polarization power spectrum, and as they measure the gravitational lensing potential. Within the next decade, we are essentially [guaranteed](http://adsabs.harvard.edu/abs/2013arXiv1309.5383A) to detect $\Sigma m\_\nu$ to 3$\sigma$, and even the tiny energy imparted on the neutrinos from electron-positron annihilation to within 2$\sigma$. 
 
 My research on neutrinos has focused on determining the [physical effects](http://adsabs.harvard.edu/abs/2013PhRvD..87h3008H) leading to our constraints on neutrino parameters, and in some cases [isolating](http://adsabs.harvard.edu/abs/2015arXiv150307863F) these effects to give novel constraints. 
 
