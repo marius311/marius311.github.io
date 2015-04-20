@@ -17,7 +17,7 @@ title: Publications
 
 * *The Planck Collaboration.* [Planck 2013 results. XVI. Cosmological parameters.](http://adsabs.harvard.edu/abs/2013arXiv1303.5076P) Astronomy & Astrophysics (Nov 2014).
 
-* *The Planck Collaboration.* [Planck 2013 results. XV. CMB power spectra and likelihood Planck Collaboration.](http://adsabs.harvard.edu/abs/2013arXiv1303.5075P) Astronomy & Astrophysics (Nov 2014).
+* *The Planck Collaboration.* [Planck 2013 results. XV. CMB power spectra and likelihood.](http://adsabs.harvard.edu/abs/2013arXiv1303.5075P) Astronomy & Astrophysics (Nov 2014).
 
 * *Zhen Hou, Ryan Keisler, Lloyd Knox, Marius Millea, Christian Reichardt* [How Massless Neutrinos Affect the Cosmic Microwave Background Damping Tail.](http://adsabs.harvard.edu/abs/2013PhRvD..87h3008H) Physical Review D (April 23, 2013) (see also [a discussion](http://blogs.discovermagazine.com/cosmicvariance/2011/04/20/avignon-day-2-cosmological-neutrinos/#.UaUSIUBlB4w) about this paper by Sean Carroll on his blog).
 
