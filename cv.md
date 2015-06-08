@@ -7,7 +7,7 @@ title: CV
 *Sept 2015 - Future*  &nbsp;&middot;&nbsp;  Starting this fall I'm extremely excited to be off to Paris as a Lagrange Fellow at the [ILP](http://ilp.upmc.fr/).
 
 ###University of California, Davis
-*2009 - Sept 2015* &nbsp;&middot;&nbsp;  I'm currently a graduate student working for [Lloyd Knox](http://virgo.physics.ucdavis.edu/~knox/LloydKnox/Home.html), who has been an amazing advisor and a really great person to work with. I'm a member of the [Planck](http://public.planck.fr/) and [South Pole Telescope](http://pole.uchicago.edu/) collaborations. I also happen to live equidistant between two of the best spots in the whole world, San Francisco and Lake Tahoe. 
+*2009 - Sept 2015* &nbsp;&middot;&nbsp; I received my PhD in June 2015 and am currently working with [Lloyd Knox](http://virgo.physics.ucdavis.edu/~knox/LloydKnox/Home.html), who has been an amazing advisor and a really great person to work with. I'm a member of the [Planck](http://public.planck.fr/) and [South Pole Telescope](http://pole.uchicago.edu/) collaborations. I also happen to live equidistant between two of the best spots in the whole world, San Francisco and Lake Tahoe. 
 
 ###Cornell University
 *2005 - 2009* &nbsp;&middot;&nbsp;  I double majored in Physics and Computer Science, with a minor in lack of sleep and realizing that the world is full of really ridiculously smart people and I need to catch up. 

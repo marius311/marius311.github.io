@@ -24,3 +24,5 @@ title: Publications
 * *Erik Shirokoff, Christian Reichardt, Laurie Shaw, Marius Millea, et. al.* [Improved Constraints on Cosmic Microwave Background Secondary Anisotropies from the Complete 2008 South Pole Telescope Data.](http://adsabs.harvard.edu/abs/2011ApJ...736...61S) The Astrophysical Journal (July 20, 2011).
 
 * *M. Millea, M. McColl, R. J. Pedersen, and F. L. Vernon, Jr.* [Cosmic Background Radiation at λ=3.3 mm.](http://adsabs.harvard.edu/abs/1971PhRvL..26..919M) Phys. Rev. Letters (April 12, 1971) (Most people don't know I was publishing papers on the CMB 15 years before my birth).
+
+* *My Thesis:* [Dechipering Precision Cosmic Microwave Background Data.](https://drive.google.com/file/d/0B8CEbS1canBkbENNMXVKV2tzbzg/view?usp=sharing) June 2015. (Please note, UC Davis Physics does not have a thesis defense, and the thesis is largely a formality composed mostly of prior work. But if you must look at mine...)
