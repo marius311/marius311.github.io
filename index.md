@@ -5,7 +5,7 @@ title: Home
 
 ![Picture of me](/public/me.jpg) 
 
-I'm a [cosmologist](http://en.wikipedia.org/wiki/Cosmetology) currently at the Univeristy of California at Davis where I received my PhD in June of 2015. Starting in September I'm off to Paris to start a postdoc as a [Lagrange Fellow](http://ilp.upmc.fr/index.php). On this site you'll find a little about my research, links to my papers, slides from my talks, and the occasional blog post. Feel free to email me at <a
+I'm a [cosmologist](http://en.wikipedia.org/wiki/Cosmetology) currently at the Univeristy of California at Davis where I received my PhD in June of 2015. In September I'm off to Paris to start a postdoc as a [Lagrange Fellow](http://ilp.upmc.fr/index.php). On this site you'll find a little about my research, links to my papers, slides from my talks, and the occasional blog post. Feel free to email me at <a
   target="_blank"
   id="contact"
   href="http://www.google.com/recaptcha/mailhide/d?k=01RgRLgvxEUrUhAUtFCSPNRA==&amp;c=0nIRqiLvmUU-5ifT56SvMSY2hB9qsGA9T0u6dIWkHPI=">
