@@ -15,7 +15,7 @@ Many of you reading this might already be volunteers, in which case hello and th
 
 I'm currently one of the main developers at C@H. In planning some upgrades, we needed to take a detailed look at some stats about our users. Then we thought, this is cool information that others might be interested in too! So here it is. There's also an IPython [notebook](http://nbviewer.ipython.org/github/marius311/marius311.github.io/blob/master/public/posts/ch/stats.ipynb) if you're curious how these plots were made or would like to do something similar for your own @Home project.
 
-C@H has been around since 2007 and over the years about 50,000 unique computers have run a computation for us. The number of active computers, that is any which have returned a result in the last month, currently sits at about 5700. Based on IP addresses, here's where they're located:
+C@H has been around since 2007 and over the years about 50,000 unique computers have run a computation for us. The number of active computers, that is any which have returned a result in the last month, currently sits at about 5700. The data in the remainder of this post are going to be about just these computers. Based on IP addresses, here's where they're located:
 
 <img src="/public/posts/ch/world.svg" alt="World" title="Obviously this blue part here is the land...">
 
