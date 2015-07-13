@@ -2,6 +2,7 @@
 layout: post
 title: How to Make a Kickass Scientific Presentation with LibreOffice and Other Free Tools
 comments: true
+excerpt_separator: <!--more-->
 ---
 
 [Texmaths Equations]: http://extensions.libreoffice.org/extension-center/texmaths-1
@@ -13,6 +14,8 @@ comments: true
 
 
 First of all, you'll need to develop an interesting scientific research program, come up with some novel results, then organize them into a coherent set of ideas to present. Ok, done? Great! Now here are some tips on making that into a modern, professional, and clean set of slides using only free tools.
+
+<!--more-->
 
 As a preview, here's the software discussed in this post:
 
