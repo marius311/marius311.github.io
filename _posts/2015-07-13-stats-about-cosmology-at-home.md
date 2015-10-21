@@ -11,7 +11,7 @@ Cosmology@Home (C@H for short) is a distributed volunteer computing project whic
 
 <!--more-->
 
-Many of you reading this might already be volunteers, in which case hello and thank you! If you're not but would like to be, [here's how](http://www.cosmologyathome.org/info.php).
+Many of you reading this might already be volunteers, in which case hello and thank you! If you're not but would like to be, [here's how](http://www.cosmologyathome.org/join.php).
 
 I'm currently one of the main developers at C@H. In planning some upgrades, we needed to take a detailed look at some stats about our users. Then we thought, this is cool information that others might be interested in too! So here it is. There's also an IPython [notebook](http://nbviewer.ipython.org/github/marius311/marius311.github.io/blob/master/public/posts/ch/stats.ipynb) if you're curious how these plots were made or would like to do something similar for your own @Home project.
 
