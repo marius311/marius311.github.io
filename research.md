@@ -5,6 +5,8 @@ title: Research
 
 
 ## For non-experts
+For non-experts
+---------------
 
 Cosmology is the study of the properties of the universe as a whole. How did the universe start? How did it evolve, and how did galaxies and other structures form? What is the universe made up of, for example what is dark matter and what is dark energy? Today they make up about 95% of the energy in the universe but we know surprisingly little about them. And can we use cosmological probes (observations on the biggest scales known to man) to learn about elementary particles (some of the smallest things we know of)?
 
