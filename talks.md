@@ -15,6 +15,10 @@ title: Talks
 
 ## Exhaustive List
 
+* *Aug 10, 2016* · COSMO16 · [Features in the Planck powerspectrum and shifts in csmological parameters](https://drive.google.com/open?id=0B8CEbS1canBkN0xrXzhiV1dFZW8)
+
+* *June 22, 2016* · Berkeley Neutrino Workshop · [Robustness of constraints on $N_{\rm eff}$ and $\Sigma m_\nu$ in light of cosmological model assumptions](https://drive.google.com/open?id=0B8CEbS1canBkUHhLcldZRTJlUjg)
+
 * *Nov 17, 2015* · Dockercon Europe 2015 · [Finding a Theory of the Universe with Docker and Volunteer Computers](https://drive.google.com/file/d/0B8CEbS1canBkSV9fQzB4WnhZN3c/view?usp=sharing)
 
 * *Oct 26, 2015* · Lagrange Institut Postdoc Welcome Talk · [Constraints on the Cosmic Neutrino(-like) Background](https://drive.google.com/file/d/0B8CEbS1canBkb2p0OHZlNUhCR3c/view?usp=sharing)
