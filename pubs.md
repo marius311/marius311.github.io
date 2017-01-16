@@ -6,7 +6,7 @@ title: Publications
 
 (for an exhaustive list instead see [this](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Millea,%20Marius&db_key=PRE))
 
-* *Marius Millea, Silvia Galli and the Planck Collaboration* [Planck 2016 intermediate results. LI. Features in the cosmic microwave background temperature power spectrum and shifts in cosmological parameters.](https://arxiv.org/abs/1608.02487) Submitted to Astronomy & Astrophysics (August 2016)
+* *Marius Millea, Silvia Galli and the Planck Collaboration.* [Planck 2016 intermediate results. LI. Features in the cosmic microwave background temperature power spectrum and shifts in cosmological parameters.](https://arxiv.org/abs/1608.02487) Submitted to Astronomy & Astrophysics (August 2016)
 
 * *Brent Follin, Lloyd Knox, Marius Millea, and Zhen Pan.* [A First Detection of the Acoustic Oscillation Phase Shift Expected from the Cosmic Neutrino Background.](http://adsabs.harvard.edu/abs/2015arXiv150307863F) Submitted to Physical Review D (March 2015).
 
