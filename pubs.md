@@ -6,7 +6,7 @@ title: Publications
 
 (for an exhaustive list instead see [this](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Millea,%20Marius&db_key=PRE))
 
-* *Marius Millea, Ethan Anderes and Ben Wandelt.* [Bayesian delensing of CMB temperature and polarization](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1708.06753) Submitted to Physical Review D (August 2017)
+* *Marius Millea, Ethan Anderes and Ben Wandelt.* [Bayesian delensing of CMB temperature and polarization.](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1708.06753) Submitted to Physical Review D (August 2017)
 
 * *Marius Millea, Silvia Galli and the Planck Collaboration.* [Planck 2016 intermediate results. LI. Features in the cosmic microwave background temperature power spectrum and shifts in cosmological parameters.](https://arxiv.org/abs/1608.02487) Submitted to Astronomy & Astrophysics (August 2016)
 
