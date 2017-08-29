@@ -6,14 +6,16 @@ title: Publications
 
 (for an exhaustive list instead see [this](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Millea,%20Marius&db_key=PRE))
 
+* *Marius Millea, Ethan Anderes and Ben Wandelt.* [Bayesian delensing of CMB temperature and polarization](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1708.06753) Submitted to Physical Review D (August 2017)
+
 * *Marius Millea, Silvia Galli and the Planck Collaboration.* [Planck 2016 intermediate results. LI. Features in the cosmic microwave background temperature power spectrum and shifts in cosmological parameters.](https://arxiv.org/abs/1608.02487) Submitted to Astronomy & Astrophysics (August 2016)
 
-* *Brent Follin, Lloyd Knox, Marius Millea, and Zhen Pan.* [A First Detection of the Acoustic Oscillation Phase Shift Expected from the Cosmic Neutrino Background.](http://adsabs.harvard.edu/abs/2015arXiv150307863F) Submitted to Physical Review D (March 2015).
+* *Brent Follin, Lloyd Knox, Marius Millea, and Zhen Pan.* [A First Detection of the Acoustic Oscillation Phase Shift Expected from the Cosmic Neutrino Background.](http://adsabs.harvard.edu/abs/2015arXiv150307863F) Physical Review Letters (August 2015).
 
 
-* *The Planck Collaboration* [Planck 2015 results. XIII. Cosmological parameters.](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1502.01589) Submitted to Astronomy & Astrophysics (Jan 2015).
+* *The Planck Collaboration* [Planck 2015 results. XIII. Cosmological parameters.](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1502.01589) Astronomy & Astrophysics (Sept 2016).
 
-* *Marius Millea, Lloyd Knox, Brian Fields.* [New Bounds for Axions and Axion-Like Particles with keV-GeV Masses.](http://adsabs.harvard.edu/abs/2015arXiv150104097M) Submitted to Physical Review D (Jan 2015).
+* *Marius Millea, Lloyd Knox, Brian Fields.* [New Bounds for Axions and Axion-Like Particles with keV-GeV Masses.](http://adsabs.harvard.edu/abs/2015arXiv150104097M) Physical Review D (July 2017).
 
 * *Marius Millea, Olivier Doré, Jonathan Dudley, Gilbert Holder, Lloyd Knox, Laurie Shaw, Yong-Seon Song, Oliver Zahn.* [Modeling Extragalactic Foregrounds and Secondaries for Unbiased Estimation of Cosmological Parameters from Primary Cosmic Microwave Background Anisotropy.](http://adsabs.harvard.edu/abs/2012ApJ...746....4M) The Astrophysical Journal (February 10, 2012).
 

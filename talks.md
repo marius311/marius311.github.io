@@ -7,6 +7,7 @@ title: Talks
 
 ## Highlights
 
+| ![](/public/talks/baylens_cosmo17.jpg) | *Aug 28, 2017* · COSMO2017 · [Bayesian CMB delensing for optimal constraints on $r$](https://drive.google.com/open?id=0B8CEbS1canBkMm1mdUc3dTJlZkU)
 | ![](/public/talks/dockercon2015.jpg) | *Nov 17, 2015* · Dockercon Europe 2015 · [Finding a Theory of the Universe with Docker and Volunteer Computers](https://drive.google.com/file/d/0B8CEbS1canBkSV9fQzB4WnhZN3c/view?usp=sharing)  (*Here's a [link](https://drive.google.com/file/d/0B8CEbS1canBkVlBaZkgxN0w3bzQ/view?usp=sharing) with videos*)
 | ![](/public/talks/ilp_postdoc_nov2015.odp_0-expanded.jpg) | *Oct 26, 2015* · Lagrange Institut Postdoc Welcome Talk · [Constraints on the Cosmic Neutrino(-like) Background](https://drive.google.com/file/d/0B8CEbS1canBkb2p0OHZlNUhCR3c/view?usp=sharing)
 | ![](/public/talks/millea_asu_2015-expanded.jpg) | *Apr 15, 2015* · ASU Seminar · [Planck 2015 Constraints on the Cosmic Neutrino(-like) Background](https://drive.google.com/file/d/0B4mwjUA-f7g6d1pKellXNXlSLUU/view?usp=sharing)
@@ -15,9 +16,18 @@ title: Talks
 
 ## Exhaustive List
 
-* *Aug 10, 2016* · COSMO16 · [Features in the Planck powerspectrum and shifts in csmological parameters](https://drive.google.com/open?id=0B8CEbS1canBkN0xrXzhiV1dFZW8)
+* *Aug 28, 2017* · COSMO17 · [Bayesian CMB delensing for optimal constraints on $r$](https://drive.google.com/open?id=0B8CEbS1canBkMm1mdUc3dTJlZkU)
+
+* *July 21, 2017* · Nordita · [An optimal Bayesian solution to the CMB delensing problem](https://drive.google.com/open?id=0B8CEbS1canBkY0Z2dHhoWHNLNkE)
+
+* *Aug 10, 2016* · COSMO16 · [Features in the Planck powerspectrum and shifts in cosmological parameters](https://drive.google.com/open?id=0B8CEbS1canBkN0xrXzhiV1dFZW8)
 
 * *June 22, 2016* · Berkeley Neutrino Workshop · [Robustness of constraints on $N_{\rm eff}$ and $\Sigma m_\nu$ in light of cosmological model assumptions](https://drive.google.com/open?id=0B8CEbS1canBkUHhLcldZRTJlUjg)
+
+* *April 25, 2016* · Les Houches · [Volunteer computing: useful tool in the future?](https://drive.google.com/open?id=0B8CEbS1canBkcl94endWQ2lPNEU)
+
+* *March 20, 2016* · Rencontres de Moriond · [Features in Planck power spectra and
+shifts in cosmological parameters](https://drive.google.com/open?id=0B8CEbS1canBkZms1eWVQSHlrNHM)
 
 * *Nov 17, 2015* · Dockercon Europe 2015 · [Finding a Theory of the Universe with Docker and Volunteer Computers](https://drive.google.com/file/d/0B8CEbS1canBkSV9fQzB4WnhZN3c/view?usp=sharing)
 

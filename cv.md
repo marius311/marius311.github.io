@@ -4,7 +4,7 @@ title: CV
 ---
 
 ### Institut Lagrange de Paris
-*2015 - Present*  &nbsp;&middot;&nbsp;  I recently started a postdoc in Paris as a Lagrange Fellow at the [ILP](http://ilp.upmc.fr/).
+*2015 - Present*  &nbsp;&middot;&nbsp;  I am a Lagrange Fellow at the [ILP](http://ilp.upmc.fr/) in the beautiful city of Paris.
 
 ### University of California, Davis
 *2009 - 2015* &nbsp;&middot;&nbsp; I received my PhD in June 2015 working with [Lloyd Knox](http://www.lloydknox.com), who has been an amazing advisor and a really great person to work with. I'm a member of the [Planck](http://public.planck.fr/) and [South Pole Telescope](http://pole.uchicago.edu/) collaborations. I also happen to live equidistant between two of the best spots in the whole world, San Francisco and Lake Tahoe. 
