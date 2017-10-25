@@ -5,16 +5,23 @@ title: Talks
 
 (click the links for PDF version of slides)
 
+## Videos
+
+<iframe width="600" height="336" src="https://www.youtube.com/embed/7YV2g3yBY88" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+
 ## Highlights
 
+| ![](/public/talks/bashfest.jpg) | *Oct 24, 2017* · Bashfest 2017 · [The Planck satellite and cosmic concordance](https://drive.google.com/open?id=0B8CEbS1canBkOTlpNmkyNVJibnM)
 | ![](/public/talks/baylens_cosmo17.jpg) | *Aug 28, 2017* · COSMO2017 · [Bayesian CMB delensing for optimal constraints on $r$](https://drive.google.com/open?id=0B8CEbS1canBkMm1mdUc3dTJlZkU)
-| ![](/public/talks/dockercon2015.jpg) | *Nov 17, 2015* · Dockercon Europe 2015 · [Finding a Theory of the Universe with Docker and Volunteer Computers](https://drive.google.com/file/d/0B8CEbS1canBkSV9fQzB4WnhZN3c/view?usp=sharing)  (*Here's a [link](https://drive.google.com/file/d/0B8CEbS1canBkVlBaZkgxN0w3bzQ/view?usp=sharing) with videos*)
-| ![](/public/talks/ilp_postdoc_nov2015.odp_0-expanded.jpg) | *Oct 26, 2015* · Lagrange Institut Postdoc Welcome Talk · [Constraints on the Cosmic Neutrino(-like) Background](https://drive.google.com/file/d/0B8CEbS1canBkb2p0OHZlNUhCR3c/view?usp=sharing)
+| ![](/public/talks/dockercon2015.jpg) | *Nov 17, 2015* · Dockercon Europe 2015 · [Finding a Theory of the Universe with Docker and Volunteer Computers](https://drive.google.com/file/d/0B8CEbS1canBkSV9fQzB4WnhZN3c/view?usp=sharing)  (*Here's a [link](https://drive.google.com/file/d/0B8CEbS1canBkVlBaZkgxN0w3bzQ/view?usp=sharing) with videos*) 
 | ![](/public/talks/millea_asu_2015-expanded.jpg) | *Apr 15, 2015* · ASU Seminar · [Planck 2015 Constraints on the Cosmic Neutrino(-like) Background](https://drive.google.com/file/d/0B4mwjUA-f7g6d1pKellXNXlSLUU/view?usp=sharing)
 | ![](/public/talks/millea_aas_seattle-expanded.jpg) | *Jan 7, 2015* · AAS Seattle · [The Planck Value of H0 (and other ΛCDM Parameters)](https://drive.google.com/file/d/0B4mwjUA-f7g6T1JjOW56NUI2d1U/view?usp=sharing)
 
 
 ## Exhaustive List
+
+* *Oct 24, 2017* · Bashfest 2017 · [The Planck satellite and cosmic concordance](https://drive.google.com/open?id=0B8CEbS1canBkOTlpNmkyNVJibnM)
 
 * *Aug 28, 2017* · COSMO17 · [Bayesian CMB delensing for optimal constraints on $r$](https://drive.google.com/open?id=0B8CEbS1canBkMm1mdUc3dTJlZkU)
 
