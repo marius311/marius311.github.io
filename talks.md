@@ -9,6 +9,8 @@ title: Talks
 
 <iframe width="600" height="336" src="https://www.youtube.com/embed/7YV2g3yBY88" frameborder="0" gesture="media" allowfullscreen></iframe>
 
+<iframe width="600" height="336" src="https://www.youtube.com/embed/xWglFoScLh8" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 
 ## Highlights
 
@@ -20,6 +22,8 @@ title: Talks
 
 
 ## Exhaustive List
+
+* *Nov 27, 2017* · DAMTP · [Dechipering precision CMB data with volunteer computers and Bayesian thinking]()
 
 * *Oct 24, 2017* · Bashfest 2017 · [The Planck satellite and cosmic concordance](https://zenodo.org/record/1036790)
 
