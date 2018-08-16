@@ -10,7 +10,7 @@ Cosmology is the study of the properties of the universe as a whole. How did the
 
 Of all of the different things we have thought to observe looking out into space, the cosmic microwave background (CMB) has proven to be the most informative for the types of questions cosmologists ask. If our eyes could see microwaves instead of visible light (yep, microwaves just like your microwave oven or your home wireless), and you looked out into space, you would see a single highly uniform glow coming from all directions. If on top of that your eyes also had the contrast turned up by a factor of about a 10,000, you could make out that this glow is not exactly uniform, but a little bluer in some spots and a little redder in others (that is, the red/blue analog for microwaves, which also corresponds to hotter and colder). The animation below gives you an idea of what these hot and cold spots look like (credit [NASA](http://www.jpl.nasa.gov/video/details.php?id=1205)).
 
-<img class="gfyitem" data-id="SnoopyGorgeousHalibut" style="width: 100%;"/>
+<img class="gfyitem" data-id="SnoopyGorgeousHalibut" data-autoplay="true" style="width: 100%;"/>
 
 The CMB was created about 13.8 billion years ago when the universe was much denser and hotter than today. Just like a piece of metal glows red-hot, the entire *universe* back then was glowing. As the universe cooled due to the expansion of space, there came a critical time when it turned from opaque to transparent, releasing this glow and creating the CMB, the light from which has been traveling to us ever since. 
 
