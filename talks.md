@@ -23,6 +23,16 @@ title: Talks
 
 ## Exhaustive List
 
+* *Aug 16, 2018* · KICP Seminar · [Optimal CMB Lensing Reconstruction and Improved Constraints on Primordial Gravitational Waves](https://drive.google.com/open?id=16RfrGZW9GysJ8IUwksGvxvsezJZj4wAw)
+
+* *July 25, 2018* · BOINC Workshop 2018 · [BOINC ❤️ Docker](https://drive.google.com/open?id=1CzHOF-uMtxvds2M8nbucY7htBBZ66fNh)
+
+* *June 5, 2018* · Vacuum 2018 · [Planck and the measure of $H_0$](https://drive.google.com/open?id=1d1ntN-Qm2meHXQbXa83uIyYzqbozcyaz)
+
+* *March 23, 2018* · Moriond 2018 · [Optimal Bayesian CMB delensing for improved constraints on the tensor-to-scalar ratio from B-mode polarization](https://drive.google.com/open?id=10XX0jVN2KB6802k-Q-j1TxawmdFJKPc1)
+
+* *Dec 12, 2017* · Sussex · [Dechipering CMB measurements with volunteer computing Bayesian methods](https://drive.google.com/open?id=1XhcYyxX39WQVKJ-ag7B5i-dnvqN3EzwJ)
+
 * *Nov 27, 2017* · DAMTP · [Dechipering precision CMB data with volunteer computers and Bayesian thinking](https://drive.google.com/open?id=1vEr-UJvo0puoiS03Yh6ryv8DnIqm3iL3)
 
 * *Oct 24, 2017* · Bashfest 2017 · [The Planck satellite and cosmic concordance](https://zenodo.org/record/1036790)
@@ -66,7 +76,7 @@ shifts in cosmological parameters](https://drive.google.com/open?id=0B8CEbS1canB
 
 * *May 29, 2014* · Shanghai Particle Physics and Cosmology Symposium · [Neutrino physics with the Planck satellite](https://drive.google.com/file/d/0B4mwjUA-f7g6Y1l1SVFtS0pDaHM/edit?usp=sharing)
 
-* *Mar 26, 2014* · Rencontres de Moriond · [Searching for New Particles with CMB and BBN measurements](https://drive.google.com/file/d/0B4mwjUA-f7g6SzNJTEN4LWRxdTQ/edit?usp=sharing)
+* *March 26, 2014* · Rencontres de Moriond · [Searching for New Particles with CMB and BBN measurements](https://drive.google.com/file/d/0B4mwjUA-f7g6SzNJTEN4LWRxdTQ/edit?usp=sharing)
 
 * *Oct 30, 2013* · University of Illinois Seminar · [Neutrino physics with the Planck satellite](https://drive.google.com/file/d/0B4mwjUA-f7g6WDlWZFNjdmtROFU/edit?usp=sharing)
 
