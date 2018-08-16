@@ -3,7 +3,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="/">
           {{ site.title }}
         </a>
       </h1>
@@ -11,7 +11,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == "/" %} active{% endif %}" href="{{ "/" }}">Home</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -27,13 +27,10 @@
         {% endif %}
       {% endfor %}
 
-      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
-      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
-      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>
 
     <a href="https://github.com/marius311" class="fa fa-github" style="font-size: 200%;"></a>
-    <a href="http://www.twitter.com/cosmic_mar" class="fa fa-twitter" style="font-size: 200%;"></a>
+    <a href="https://www.twitter.com/cosmic_mar" class="fa fa-twitter" style="font-size: 200%;"></a>
     <a href="https://soundcloud.com/marius311" class="fa fa-soundcloud" style="font-size: 200%;"></a>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

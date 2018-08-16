@@ -10,11 +10,9 @@ title:            Marius Millea
 tagline:          'CosmicMar'
 description:      'Cosmologist'
 url:              http://cosmicmar.com
-baseurl:          /
 
 author:
   name:           'Marius Millea'
-  # url:            https://twitter.com/mdo
 
 paginate:         5
 paginate_path:    "/posts/page:num/"
