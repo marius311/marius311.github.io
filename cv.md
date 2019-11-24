@@ -3,8 +3,11 @@ layout: page
 title: CV
 ---
 
+### Berkeley Center for Cosmological Physics
+*2018 - present* &nbsp;&middot;&nbsp; I'm back in my old stomping grounds in they bay as a BCCP Fellow at [Berkeley Center for Cosmological Physics](http://bccp.berkeley.edu/). 
+
 ### Institut Lagrange de Paris
-*2015 - Present*  &nbsp;&middot;&nbsp;  I am a Lagrange Fellow at the [ILP](http://ilp.upmc.fr/) in the beautiful city of Paris.
+*2015 - 2018*  &nbsp;&middot;&nbsp; I was a Lagrange Fellow at the [Institut Lagrage de Paris](http://ilp.upmc.fr/) (if you *ever* get a chance to live in Paris, take it, trust me).
 
 ### University of California, Davis
 *2009 - 2015* &nbsp;&middot;&nbsp; I received my PhD in June 2015 working with [Lloyd Knox](http://www.lloydknox.com), who has been an amazing advisor and a really great person to work with. I'm a member of the [Planck](http://public.planck.fr/) and [South Pole Telescope](http://pole.uchicago.edu/) collaborations. I also happen to live equidistant between two of the best spots in the whole world, San Francisco and Lake Tahoe. 

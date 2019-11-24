@@ -6,14 +6,17 @@ title: Publications
 
 (for an exhaustive list instead see [this](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Millea,%20Marius&db_key=PRE))
 
-* *Marius Millea and Francois Bouchet.* [Cosmic Microwave Background Constraints in Light of Priors Over Reionization Histories.](http://adsabs.harvard.edu/abs/2018arXiv180408476M) Accepted to Astronomy & Astrophysics (May 2018)
-* 
-* *Marius Millea, Ethan Anderes and Ben Wandelt.* [Bayesian delensing of CMB temperature and polarization.](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1708.06753) Submitted to Physical Review D (August 2017)
+* *Lloyd Knox and Marius Millea.* [The Hubble Hunter's Guide.](https://ui.adsabs.harvard.edu/abs/2019arXiv190803663K) Accepted to Physical Review D (Oct 2019)
 
+* *Solène Chabanier, Marius Millea, Nathalie Palanque-Delabrouille.* [Matter power spectrum: from Ly α forest to CMB scales.](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.2247C) MNRAS (October 2019)
+
+* *Marius Millea, Ethan Anderes and Ben Wandelt.* [Bayesian delensing of CMB temperature and polarization.](https://ui.adsabs.harvard.edu/abs/2019PhRvD.100b3509M) Physical Review D (July 2019)
+
+* *Marius Millea and Francois Bouchet.* [Cosmic Microwave Background Constraints in Light of Priors Over Reionization Histories.](http://adsabs.harvard.edu/abs/2018arXiv180408476M) Astronomy & Astrophysics (Sept 2018)
+ 
 * *Marius Millea, Silvia Galli and the Planck Collaboration.* [Planck 2016 intermediate results. LI. Features in the cosmic microwave background temperature power spectrum and shifts in cosmological parameters.](https://arxiv.org/abs/1608.02487) Astronomy & Astrophysics (November 2017)
 
 * *Brent Follin, Lloyd Knox, Marius Millea, and Zhen Pan.* [A First Detection of the Acoustic Oscillation Phase Shift Expected from the Cosmic Neutrino Background.](http://adsabs.harvard.edu/abs/2015arXiv150307863F) Physical Review Letters (August 2015).
-
 
 * *The Planck Collaboration* [Planck 2015 results. XIII. Cosmological parameters.](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1502.01589) Astronomy & Astrophysics (Sept 2016).
 

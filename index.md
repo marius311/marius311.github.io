@@ -5,7 +5,7 @@ title: Home
 
 ![Picture of me](/public/me.jpg) 
 
-I'm a [cosmologist](http://en.wikipedia.org/wiki/Cosmetology) and [Lagrange Fellow](http://ilp.upmc.fr/fellowships/postdoc-fellowships.php) at the [Insitut Lagrange de Paris](http://ilp.upmc.fr/index.php). This fall I join the [Berkeley Center for Cosmological Physics](http://bccp.berkeley.edu/) as a BCCP Fellow. On this site you'll find a little about my research, links to my papers, slides from my talks, and the occasional blog post. Feel free to email me at <a
+I'm a [cosmologist](http://en.wikipedia.org/wiki/Cosmetology) and a BCCP Fellow at the [Berkeley Center for Cosmological Physics](http://bccp.berkeley.edu/). On this site you'll find a little about my research, links to my papers, slides from my talks, and the occasional blog post. Feel free to email me at <a
   target="_blank"
   id="contact"
   href="https://www.google.com/recaptcha/mailhide/d?k=01RgRLgvxEUrUhAUtFCSPNRA==&amp;c=0nIRqiLvmUU-5ifT56SvMSY2hB9qsGA9T0u6dIWkHPI=">
