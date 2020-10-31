@@ -3,16 +3,16 @@ layout: page
 title: Talks
 ---
 
-(click the links for PDF version of slides)
-
 ## Videos
 
-<iframe width="600" height="336" src="https://www.youtube.com/embed/7YV2g3yBY88" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="600" height="336" src="https://www.youtube.com/embed/CoLDcnP53ro" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 <iframe width="600" height="336" src="https://www.youtube.com/embed/xWglFoScLh8" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 
 ## Highlights
+
+(click the links for PDF version of slides)
 
 | ![](/public/talks/bashfest.jpg) | *Oct 24, 2017* · Bashfest 2017 · [The Planck satellite and cosmic concordance](https://zenodo.org/record/1036790)
 | ![](/public/talks/baylens_cosmo17.jpg) | *Aug 28, 2017* · COSMO2017 · [Bayesian CMB delensing for optimal constraints on $r$](https://drive.google.com/open?id=0B8CEbS1canBkMm1mdUc3dTJlZkU)
@@ -21,7 +21,7 @@ title: Talks
 | ![](/public/talks/millea_aas_seattle-expanded.jpg) | *Jan 7, 2015* · AAS Seattle · [The Planck Value of H0 (and other ΛCDM Parameters)](https://drive.google.com/file/d/0B4mwjUA-f7g6T1JjOW56NUI2d1U/view?usp=sharing)
 
 
-## Exhaustive List
+## More exhaustive List
 
 * *Aug 16, 2018* · KICP Seminar · [Optimal CMB Lensing Reconstruction and Improved Constraints on Primordial Gravitational Waves](https://drive.google.com/open?id=16RfrGZW9GysJ8IUwksGvxvsezJZj4wAw)
 

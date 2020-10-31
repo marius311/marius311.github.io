@@ -6,7 +6,12 @@ title: Publications
 
 (for an exhaustive list instead see [this](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Millea,%20Marius&db_key=PRE))
 
-* *Lloyd Knox and Marius Millea.* [The Hubble Hunter's Guide.](https://ui.adsabs.harvard.edu/abs/2019arXiv190803663K) Accepted to Physical Review D (Oct 2019)
+* *Marius Millea, Ethan Anderes and Ben Wandelt.* [Bayesian delensing delight: sampling-based inference of the primordial CMB and gravitational lensing.](https://ui.adsabs.harvard.edu/abs/2020arXiv200200965M/abstract) Accepted to Physical Review D (Feb 2020)
+
+* *Marius Millea.* [New cosmological bounds on axions in the XENON1T window
+](https://ui.adsabs.harvard.edu/abs/2020arXiv200705659M/abstract) Submitted to Physical Review D (Aug 2020)
+
+* *Lloyd Knox and Marius Millea.* [The Hubble Hunter's Guide.](https://ui.adsabs.harvard.edu/abs/2019arXiv190803663K) Physical Review D (Feb 2020)
 
 * *Solène Chabanier, Marius Millea, Nathalie Palanque-Delabrouille.* [Matter power spectrum: from Ly α forest to CMB scales.](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.2247C) MNRAS (October 2019)
 
